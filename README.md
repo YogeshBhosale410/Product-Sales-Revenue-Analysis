@@ -1,0 +1,1 @@
+Analyzed a dataset of 500+ sales transactions (customer, region, item, quantity, price, revenue) using Excel PivotTables and PivotCharts. Built a dashboard summarizing regional sales performance and top-selling items, completed end-to-end in 20 minutes — demonstrating strong Excel proficiency for quick, actionable data analysis.
